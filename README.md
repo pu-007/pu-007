@@ -1,24 +1,12 @@
-### Hi there 👋
+## 📊 GitHub Stats
 
-<!--
-**pu-007/pu-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Top Langs](https://vercel.app)
-
-
-![GitHub Stats](https://vercel.app)
-
-
-![WakaTime Stats](https://vercel.app)
+<table align="center">
+  <tr>
+    <td>
+      <img src="./assets/stats.svg" height="180"/>
+    </td>
+    <td>
+      <img src="./assets/top-langs.svg" height="180"/>
+    </td>
+  </tr>
+</table>
