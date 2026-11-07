@@ -12,6 +12,8 @@ The query reads all public, owned, non-fork repositories, then sums GitHub's
 language byte counts. The card shows the twelve largest languages; all
 languages remain in the percentage denominator. Archived repositories count.
 This measures repository contents, not proficiency or personally authored lines.
+Desktop and mobile SVG layouts share the same data. The README picture element
+selects a two-column mobile card so labels remain legible on narrow screens.
 
 Run tests with: node --test tests/*.test.mjs
 Refresh from the Actions tab: Update README Cards → Run workflow.

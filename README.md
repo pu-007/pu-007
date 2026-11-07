@@ -116,7 +116,10 @@ Taking small experiments further, with open tools others can use.
 
 <div align="center">
 
-<img width="100%" src="./assets/top-langs.svg" alt="Most Used Languages across public non-fork repositories" />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/top-langs-mobile.svg" />
+  <img width="100%" src="./assets/top-langs.svg" alt="Most Used Languages across public non-fork repositories" />
+</picture>
 
 <sub>Language share reflects code size, not skill level.</sub>
 
