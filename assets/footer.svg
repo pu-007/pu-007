@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="90" viewBox="0 0 960 90" role="img" aria-label="A quiet trail of light">
+<defs><linearGradient id="line"><stop stop-color="#A78BFA" stop-opacity="0"/><stop offset=".35" stop-color="#A78BFA" stop-opacity=".6"/><stop offset=".65" stop-color="#67E8F9" stop-opacity=".6"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/></linearGradient></defs>
+<path d="M120 45C300 90 650 0 840 45" stroke="url(#line)" stroke-width="1" fill="none"/>
+<path d="M120 49C330 100 650 10 840 49" stroke="url(#line)" stroke-width=".6" opacity=".4" fill="none"/>
+<circle cx="480" cy="45" r="2" fill="#B6A2F5"/>
+</svg>
