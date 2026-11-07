@@ -100,6 +100,8 @@ An ongoing journey through C++, algorithms, and problem solving.
 
 ## Ideas I'm growing.
 
+> Small tools today. Deeper systems next.
+
 **Qixin · A home that cares.**<br />
 A design study connecting smart homes with emotional support. Context, personal memory, and user choice.<br />
 <sub>System design and offline flow checks so far. Real-home testing is a next step.</sub>
