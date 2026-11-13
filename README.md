@@ -68,6 +68,17 @@ An ongoing journey through C++, algorithms, and problem solving.
 
 <br />
 
+## Built on science.
+
+**[Gabor Sight](https://github.com/pu-007/GaborSight) · Train the lazy eye, measure every trial.**
+
+A perceptual-learning trainer for adult amblyopia, inspired by RevitalVision. Gabor patches with lateral masking, an adaptive staircase, screen calibration, and per-trial data — all in the browser, fully offline.
+
+<sub>Vue 3 · TypeScript · WebGL2 · IndexedDB · PWA</sub>
+
+[Open the project ↗](https://github.com/pu-007/GaborSight)
+
+<br />
 ## Make the tools fit.
 
 | Focus | Projects | What I build |
