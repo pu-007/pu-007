@@ -17,29 +17,6 @@ Sometimes to solve a problem. Sometimes to make someone smile.
 
 </div>
 
-## Made for someone.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>SlGift</h3>
-<b>A gift you can play.</b>
-<p>A personal gift turned into a pixel-art world. Floating islands, small surprises, and the freedom to choose.</p>
-<sub>Vue · JavaScript · Animation · Interaction design</sub>
-<p><a href="https://github.com/pu-007/SlGift">Open the gift ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>ShuangJu</h3>
-<b>A gift that remembers.</b>
-<p>A Flutter app made as a personal gift. Favorite dramas, saved lines, personal notes, and a birthday surprise.</p>
-<sub>Dart · Flutter · TMDB · App design</sub>
-<p><a href="https://github.com/pu-007/ShuangJu">Explore the app ↗</a></p>
-</td>
-</tr>
-</table>
-
-<br />
-
 ## From design to live.
 
 **[Caimei Electronics](https://github.com/pu-007/caimeidz-offcial-website) · A real business, online.**
@@ -79,16 +56,25 @@ A perceptual-learning trainer for adult amblyopia, inspired by RevitalVision. Ga
 [Open the project ↗](https://github.com/pu-007/GaborSight)
 
 <br />
+
 ## Make the tools fit.
 
-| Focus | Projects | What I build |
-| :--- | :--- | :--- |
-| **A workspace of my own.** | [dotfiles](https://github.com/pu-007/dotfiles) + [WOTS](https://github.com/pu-007/wots) | Zsh, Neovim, Yazi, package hooks, and system settings. A Rust engine keeps configurations in sync across Arch Linux, WSL, and Windows. |
-| **Keep hands on keys.** | [NeoCapsLockX](https://github.com/pu-007/NeoCapsLockX) + [im-select-ahk.nvim](https://github.com/pu-007/im-select-ahk.nvim) | Keyboard layers, window and mouse control, and input-method switching. AutoHotkey, Lua, and Windows APIs working together. |
-| **Preview in place.** | [quicklook.yazi](https://github.com/pu-007/quicklook.yazi) | Windows QuickLook from Yazi in WSL. Lua, PowerShell, and cross-system path handling. |
-| **Connect words to actions.** | [oxa-server](https://github.com/pu-007/oxa-server) + [xiaopilot](https://github.com/pu-007/xiaopilot) | Voice-command extensions, Python actions, MQTT PC control, and Wake-on-LAN. |
+| Focus                         | Projects                                                                                                                    | What I build                                                                                                                           |
+| :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
+| **A workspace of my own.**    | [dotfiles](https://github.com/pu-007/dotfiles) + [WOTS](https://github.com/pu-007/wots)                                     | Zsh, Neovim, Yazi, package hooks, and system settings. A Rust engine keeps configurations in sync across Arch Linux, WSL, and Windows. |
+| **Keep hands on keys.**       | [NeoCapsLockX](https://github.com/pu-007/NeoCapsLockX) + [im-select-ahk.nvim](https://github.com/pu-007/im-select-ahk.nvim) | Keyboard layers, window and mouse control, and input-method switching. AutoHotkey, Lua, and Windows APIs working together.             |
+| **Preview in place.**         | [quicklook.yazi](https://github.com/pu-007/quicklook.yazi)                                                                  | Windows QuickLook from Yazi in WSL. Lua, PowerShell, and cross-system path handling.                                                   |
+| **Connect words to actions.** | [oxa-server](https://github.com/pu-007/oxa-server) + [xiaopilot](https://github.com/pu-007/xiaopilot)                       | Voice-command extensions, Python actions, MQTT PC control, and Wake-on-LAN.                                                            |
 
 <br />
+
+## 弘扬中华文化 / Chinese localization
+
+- [chinese_find.nvim](https://github.com/pu-007/chinese_find.nvim): Chinese/ASCII punctuation equivalence for Neovim's f/F/t/T, ;, ,, and operator repeats.
+
+- ArchWiki Chinese translation
+
+- [im-select-ahk.nvim](https://github.com/pu-007/im-select-ahk.nvim): enables automatic input method switching between Chinese and English
 
 ## Across the stack.
 
@@ -122,6 +108,29 @@ Exploring AI across apps, devices, and daily routines.
 
 **Useful tools · Made to be shared.**<br />
 Taking small experiments further, with open tools others can use.
+
+<br />
+
+## Made for someone.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>SlGift</h3>
+<b>A gift you can play.</b>
+<p>A personal gift turned into a pixel-art world. Floating islands, small surprises, and the freedom to choose.</p>
+<sub>Vue · JavaScript · Animation · Interaction design</sub>
+<p><a href="https://github.com/pu-007/SlGift">Open the gift ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>ShuangJu</h3>
+<b>A gift that remembers.</b>
+<p>A Flutter app made as a personal gift. Favorite dramas, saved lines, personal notes, and a birthday surprise.</p>
+<sub>Dart · Flutter · TMDB · App design</sub>
+<p><a href="https://github.com/pu-007/ShuangJu">Explore the app ↗</a></p>
+</td>
+</tr>
+</table>
 
 <br />
 
